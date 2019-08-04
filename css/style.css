@@ -1,37 +1,36 @@
 
-.clearfix:after{visibility:hidden;clear:both;display:block;content:".";height:0}
-.clearfix{*zoom:1}
 body {
     margin: 0;
     padding: 0;
 }
-
+.logo_tit{
+    width: 100px;
+    height: 50px;
+    float: left;
+    cursor: pointer;
+}
 a {
     text-decoration: none;
     color: red;
 }
 
 header {
-    margin: 0 auto;
     background-color: #6945FE;
 }
-header #logo{
-    color: #fff;
-    line-height: 50px;
+.nav{
+    width: 1200px;
+    margin: 0 auto;
 }
 
-.nav #logo{
-    border: 1px solid #000;
-    float: left;
+header .t{
+    float: right;
 }
-
 header a {
     display: inline-block;
     color: #fff;
     line-height: 50px;
     height: 50px;
     margin: 0 1px;
-    float: right;
     text-align: center;
     padding: 0 10px;
 }
