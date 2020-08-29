@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c4a32c2-acde-4e89-8883-ea35e0fc0d5f" name="Default Changelist" comment="初始化">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gmTSth61Qezg5VjxVThTNc1Rdo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\xiedaimala\Mywebsite\images" />
+      <recent name="F:\xiedaimala\Mywebsite\js" />
+      <recent name="F:\xiedaimala\Mywebsite\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c4a32c2-acde-4e89-8883-ea35e0fc0d5f" name="Default Changelist" comment="" />
+      <created>1598718770433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598718770433</updated>
+      <workItem from="1598718773040" duration="15000" />
+      <workItem from="1598718807035" duration="10350000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化">
+      <created>1598729296534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598729296534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="344" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598725393886">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="279" y="344" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598725393886" />
+    <state x="701" y="151" key="CommitChangelistDialog2" timestamp="1598729724238">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="701" y="151" key="CommitChangelistDialog2/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598729724238" />
+    <state x="878" y="353" key="FileChooserDialogImpl" timestamp="1598725216361">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="878" y="353" key="FileChooserDialogImpl/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598725216361" />
+    <state x="599" y="240" key="SettingsEditor" timestamp="1598729620758">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="599" y="240" key="SettingsEditor/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598729620758" />
+    <state x="690" y="331" key="Vcs.Push.Dialog.v2" timestamp="1598729413770">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="690" y="331" key="Vcs.Push.Dialog.v2/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598729413770" />
+    <state x="697" y="301" width="800" height="592" key="find.popup" timestamp="1598725405472">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="697" y="301" width="800" height="592" key="find.popup/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598725405472" />
+    <state x="754" y="279" key="run.anything.popup" timestamp="1598728550375">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="754" y="279" key="run.anything.popup/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598728550375" />
+  </component>
+</project>

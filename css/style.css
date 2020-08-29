@@ -1,0 +1,75 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #E0EAFC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
+}
+.logo_tit{
+    cursor: pointer;
+    color: #222;
+    font-size: 30px;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+
+header {
+    /*background-color: #6945FE;*/
+}
+.nav{
+    width: 90%;
+    margin: 0 auto;
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header a {
+    display: inline-block;
+    color: #333;
+    padding: 0 10px;
+}
+
+header a:hover {
+    color: #fff;
+}
+
+.wxtj{
+    margin: 0 auto;
+    height: 250px;
+    background: url(../images/wxtj.png) no-repeat center center;
+    background-size: contain;
+}
+
+main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main img{
+
+}
+main h3{
+
+}
+
+footer {
+    text-align: center;
+}
+
+footer {
+    color: #333;
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: 44%;
+}
