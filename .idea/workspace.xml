@@ -57,6 +57,8 @@
       <updated>1598718770433</updated>
       <workItem from="1598718773040" duration="15000" />
       <workItem from="1598718807035" duration="10350000" />
+      <workItem from="1598729837160" duration="2183000" />
+      <workItem from="1598868136726" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1598729296534</created>
@@ -65,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598729296534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="瀑布流滚动">
+      <created>1598868631041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598868631041</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,17 +83,18 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="瀑布流滚动" />
+    <option name="LAST_COMMIT_MESSAGE" value="瀑布流滚动" />
   </component>
   <component name="WindowStateProjectService">
     <state x="279" y="344" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598725393886">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="279" y="344" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598725393886" />
-    <state x="701" y="151" key="CommitChangelistDialog2" timestamp="1598729724238">
+    <state x="701" y="151" key="CommitChangelistDialog2" timestamp="1598868715634">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="701" y="151" key="CommitChangelistDialog2/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598729724238" />
+    <state x="701" y="151" key="CommitChangelistDialog2/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598868715634" />
     <state x="878" y="353" key="FileChooserDialogImpl" timestamp="1598725216361">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
@@ -93,10 +103,10 @@
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="599" y="240" key="SettingsEditor/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598729620758" />
-    <state x="690" y="331" key="Vcs.Push.Dialog.v2" timestamp="1598729413770">
+    <state x="690" y="331" key="Vcs.Push.Dialog.v2" timestamp="1598868747853">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="690" y="331" key="Vcs.Push.Dialog.v2/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598729413770" />
+    <state x="690" y="331" key="Vcs.Push.Dialog.v2/3840.399.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1598868747853" />
     <state x="697" y="301" width="800" height="592" key="find.popup" timestamp="1598725405472">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
